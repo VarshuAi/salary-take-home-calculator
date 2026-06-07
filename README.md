@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Enter base salaries, deduct tax metrics, and calculate take-home totals.
+  name: salary-take-home-calculator version: 1.0 type: Repository author: VarshuAi description: >   Enter base salaries, deduct tax metrics, and calculate take-home totals. primary_tech: CSS
 primary_tech: CSS
 ```
 
